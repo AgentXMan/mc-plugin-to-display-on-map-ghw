@@ -22,7 +22,7 @@ public class mapRendererr extends MapRenderer {
 
 
         try {
-            File imageFile = new File("C:\\Users\\Saksham Tehri\\Desktop\\.vscode\\hackathons\\ghw\\data week\\resizedStepCountTrend.png");
+            File imageFile = new File("resizedStepCountTrend.png directory");
             pngImage = ImageIO.read(imageFile);
             canvas.drawImage(0, 0, pngImage);
 
