@@ -1,6 +1,7 @@
 # ghw-mc-plugin
 this is a small Minecraft plugin (still in development) that I created to visualize your Samsung Health data on MC maps. This project was developed for Global Hack Week (Data Week) challenge on day 6 (build a data visualization).
-
+https://youtu.be/mbTWgGMqxcw
+https://devpost.com/software/data-plugin
 
 
 # installation and running
