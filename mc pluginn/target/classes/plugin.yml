@@ -1,0 +1,9 @@
+name: GlobalHackWeekDataWeek
+version: '1.0-SNAPSHOT'
+main: me.agentxman.globalhackweekdataweek.GlobalHackWeekDataWeek
+api-version: 1.20
+authors: [ agentxman ]
+description: a plugin for global hack week
+commands:
+  map:
+    description: make a map out of the image
