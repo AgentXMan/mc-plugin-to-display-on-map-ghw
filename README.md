@@ -26,4 +26,4 @@ If you encounter any errors while running the Java plugin, consider creating a n
 
 
 # still in dev
-Note: This project is still in development, so apologies for any errors or bugs that may arise
+Note: This project is still in development, so apologies for any errors or bugs that may arise. the documentation will be updated as soon as i update this project
