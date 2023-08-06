@@ -10,9 +10,9 @@ Run visualizeDataMcPlugin.py (get your personal data from samsung health and cho
 
 i assume you already have a Spigot server running for the MC plugin and have created a new Java 16 project using Maven in IntelliJ IDEA with Minecraft 1.20.1 installed.
 
-Once the files are downloaded, navigate to the "mc-plugin/GlobalHackWeekData" folder, where you will find pom.xml. Edit line 52 to specify your desired output directory (place it in your MC server's plugins directory).
+Once the files are downloaded, navigate to the "mc-plugin/" folder, where you will find pom.xml. Edit line 52 to specify your desired output directory (place it in your MC server's plugins directory).
 
-After that, go to "mc-plugin/GlobalHackWeekData/src/main/java/me/agentxman/globalhackweekdataweek". Here you will find the Java files. Open mapRenderer.java and change the directory in line 25 to point to the location of your resizedStepCountTrend.png file. Then, run map.java and join your server.
+After that, go to "mc-plugin//src/main/java/me/agentxman/globalhackweekdataweek". Here you will find the Java files. Open mapRenderer.java and change the directory in line 25 to point to the location of your resizedStepCountTrend.png file. Then, run map.java and join your server.
 
 In the Minecraft server, open the command prompt and type "/map" to view the map displaying your step count graph.
 
