@@ -1,4 +1,4 @@
-package me.agentxman.globalhackweekdataweek; //change this if needed
+package me.agentxman.globalhackweekdataweek; 
 import me.agentxman.globalhackweekdataweek.commandss.map;
 import org.bukkit.Bukkit;
 import org.bukkit.command.Command;
